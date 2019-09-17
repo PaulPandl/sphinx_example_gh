@@ -4,9 +4,14 @@ code\_here package
 Submodules
 ----------
 
-.. toctree::
+code\_here.googleDocstringsEx module
+------------------------------------
 
-   code_here.googleDocstringsEx
+.. automodule:: code_here.googleDocstringsEx
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 
 Module contents
 ---------------
