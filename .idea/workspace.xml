@@ -2,90 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1abe1712-f105-45ee-808b-47d96f4f283e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/docs/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/doctrees/code_here.doctree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/doctrees/code_here.googleDocstringsEx.doctree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/doctrees/environment.pickle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/doctrees/index.doctree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/doctrees/modules.doctree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/.buildinfo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_sources/code_here.googleDocstringsEx.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_sources/code_here.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_sources/index.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_sources/modules.rst.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/basic.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/css/badge_only.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/css/theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/doctools.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/documentation_options.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/file.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Inconsolata-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Inconsolata-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Inconsolata.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-bolditalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-bolditalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-bolditalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-bolditalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-italic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-italic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-italic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-italic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/Lato/lato-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/RobotoSlab-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/RobotoSlab-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/RobotoSlab/roboto-slab-v7-bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/RobotoSlab/roboto-slab-v7-bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/RobotoSlab/roboto-slab-v7-bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/RobotoSlab/roboto-slab-v7-bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/RobotoSlab/roboto-slab-v7-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/RobotoSlab/roboto-slab-v7-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/RobotoSlab/roboto-slab-v7-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/RobotoSlab/roboto-slab-v7-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/jquery-3.4.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/js/modernizr.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/js/theme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/language_data.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/minus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/plus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/pygments.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/searchtools.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/underscore-1.3.1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/_static/underscore.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/code_here.googleDocstringsEx.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/code_here.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/genindex.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/modules.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/objects.inv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/py-modindex.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/search.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/build/html/searchindex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/docs/source/code_here.googleDocstringsEx.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/docs/source/code_here.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/docs/source/modules.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/make.bat" beforeDir="false" afterPath="$PROJECT_DIR$/docs/make.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/code_here.googleDocstringsEx.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/code_here.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/conf.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/index.rst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/source/modules.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.readthedocs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.readthedocs.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +58,7 @@
       <workItem from="1568665938543" duration="3439000" />
       <workItem from="1568729647779" duration="120000" />
       <workItem from="1568729780846" duration="1839000" />
-      <workItem from="1568731760893" duration="903000" />
+      <workItem from="1568731760893" duration="956000" />
     </task>
     <servers />
   </component>
